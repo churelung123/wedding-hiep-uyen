@@ -2,7 +2,7 @@ import images from "../images";
 
 const WISH_API_LINK = ""; // use mock api
 const cdnLink =
-  "https://drive.google.com/file/d/1KZK2lDe37dRsO8Bu_MH-rjtfRAnl9ZCB/view?usp=drive_link";
+  "https://res.cloudinary.com/do6sozxbo/image/upload/f_auto,q_auto/v1/wedding5";
 
 // common
 
@@ -72,7 +72,7 @@ const daysInMonth = [
 // invitation intro (first section)
 const introSection = {
   mainImage:
-    "https://drive.google.com/file/d/1KZK2lDe37dRsO8Bu_MH-rjtfRAnl9ZCB/view?usp=drive_link",
+    "https://res.cloudinary.com/do6sozxbo/image/upload/f_auto,q_auto/v1/wedding5/e3",
   brideFirstLetter: "T",
   groomFirstLetter: "H",
 };
@@ -129,7 +129,7 @@ const guestbookSection = {
 
 const giftSection = {
   image:
-    "https://drive.google.com/file/d/1XT84NRJiFroYosII_zZVddvVQybJegSr/view?usp=drive_link",
+    "https://res.cloudinary.com/do6sozxbo/image/upload/v1730383598/wedding5/am3.jpg",
   brideBank: {
     name: "Trần Thị Thuý",
     bankName: "Vietinbank ",
@@ -304,24 +304,24 @@ const metaData = {
   main: {
     title: "Báo Hỉ Hiệp - Uyên | Kính Mời",
     graphImage:
-      "https://drive.google.com/file/d/1XT84NRJiFroYosII_zZVddvVQybJegSr/view?usp=drive_link",
+      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/land.jpg",
   },
 
   wish: {
     title: "Tất cả lời chúc dành cho Hiệp - Uyên",
     graphImage:
-      "https://drive.google.com/file/d/1102VhgUyNqKTWYYC-QhctxvN71oTktbP/view?usp=drive_link",
+      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/am11.jpg",
   },
 
   invitation: {
     title: "Báo Hỉ | Form Nhập Tên",
     graphImage:
-      "https://drive.google.com/file/d/1102VhgUyNqKTWYYC-QhctxvN71oTktbP/view?usp=drive_link",
+      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730394150/wedding5_1/a3.jpg",
   },
   album: {
     title: "Album của Hiệp - Uyên`",
     graphImage:
-      "https://drive.google.com/file/d/1iTyeu6lEGhKAyVgU993ce25iLvEnjJcT/view?usp=drive_link",
+      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/final3.jpg",
   },
 };
 
