@@ -2,7 +2,7 @@ import images from "../images";
 
 const WISH_API_LINK = ""; // use mock api
 const cdnLink =
-  "/images/anh-cuoi1.jpg";
+  "/images";
 
 // common
 
@@ -73,7 +73,7 @@ const daysInMonth = [
 const introSection = {
   mainImage:
     "/images/anh-cuoi1.jpg",
-  brideFirstLetter: "T",
+  brideFirstLetter: "U",
   groomFirstLetter: "H",
 };
 
