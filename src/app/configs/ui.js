@@ -2,7 +2,7 @@ import images from "../images";
 
 const WISH_API_LINK = ""; // use mock api
 const cdnLink =
-  "https://res.cloudinary.com/do6sozxbo/image/upload/f_auto,q_auto/v1/wedding5";
+  "/images/anh-cuoi1.jpg";
 
 // common
 
@@ -72,7 +72,7 @@ const daysInMonth = [
 // invitation intro (first section)
 const introSection = {
   mainImage:
-    "https://res.cloudinary.com/do6sozxbo/image/upload/f_auto,q_auto/v1/wedding5/e3",
+    "/images/anh-cuoi1.jpg",
   brideFirstLetter: "T",
   groomFirstLetter: "H",
 };
@@ -129,7 +129,7 @@ const guestbookSection = {
 
 const giftSection = {
   image:
-    "https://res.cloudinary.com/do6sozxbo/image/upload/v1730383598/wedding5/am3.jpg",
+    "/images/anh-cuoi2.jpg",
   brideBank: {
     name: "Trần Thị Thuý",
     bankName: "Vietinbank ",
@@ -304,24 +304,24 @@ const metaData = {
   main: {
     title: "Báo Hỉ Hiệp - Uyên | Kính Mời",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/land.jpg",
+      "/images/anh-cuoi2.jpg",
   },
 
   wish: {
     title: "Tất cả lời chúc dành cho Hiệp - Uyên",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/am11.jpg",
+      "/images/anh-cuoi3.jpg",
   },
 
   invitation: {
     title: "Báo Hỉ | Form Nhập Tên",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730394150/wedding5_1/a3.jpg",
+      "/images/anh-cuoi4.jpg",
   },
   album: {
     title: "Album của Hiệp - Uyên`",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/final3.jpg",
+      "/images/anh-cuoi5.jpg",
   },
 };
 
