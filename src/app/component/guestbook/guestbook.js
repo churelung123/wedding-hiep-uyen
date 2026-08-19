@@ -187,7 +187,7 @@ function GuestBook({ fName }) {
         >
           Mừng cưới
         </button> */}
-        <button
+        {/* <button
           className={cx("btn")}
           style={{
             transform: isInView ? "translateY(0)" : "translateY(80px)",
@@ -199,7 +199,7 @@ function GuestBook({ fName }) {
           }}
         >
           Xem lời chúc
-        </button>
+        </button> */}
       </div>
       <Confetti active={active} config={configConfetti} />
 
