@@ -31,7 +31,7 @@ const weddingInfo = [
       full: "Chủ nhật, Ngày 30 Tháng 08 năm 2026",
     },
     address: "Nhà hàng Năm Nhỏ sảnh Center",
-    street: "D7 số 35-41 Tôn Đức Thắng, phường Rạch Giá - tỉnh An Giang",
+    street: "https://www.google.com/maps/place/Nh%C3%A0+H%C3%A0ng+N%C4%83m+Nh%E1%BB%8F/@9.9893258,105.0864725,20z/data=!4m16!1m9!3m8!1s0x31a0b47b49d1758d:0x3c41c2c626b61793!2zTmjDoCBIw6BuZyBOxINtIE5o4buP!8m2!3d9.9900854!4d105.0864!9m1!1b1!16s%2Fg%2F11c5g_81xj!3m5!1s0x31a0b47b49d1758d:0x3c41c2c626b61793!8m2!3d9.9900854!4d105.0864!16s%2Fg%2F11c5g_81xj?entry=ttu&g_ep=EgoyMDI2MDgxNi4wIKXMDSoASAFQAw%3D%3D",
     phone: "0913572558",
     posision: "bottom left",
   },
@@ -61,7 +61,7 @@ const daysInMonth = [
   },
   {
     title: "sat",
-    days: [1, 8, 15, 22, 28, 0],
+    days: [1, 8, 15, 22, 29, 0],
   },
   {
     title: "sun",
