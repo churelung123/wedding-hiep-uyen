@@ -35,8 +35,8 @@ function Intro({ handleOpen, name = "You" }) {
               </div>
 
               <div className={cx("dear-box")}>
-                <p className={cx("dear")}>Thân mời : </p>
-                <span className={cx("dear-name")}>{name}</span>
+                <p className={cx("dear")}>Thân mời </p>
+                <span className={cx("dear-name")}>{""}</span>
               </div>
             </div>
             {/* 

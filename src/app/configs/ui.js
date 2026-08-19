@@ -2,7 +2,7 @@ import images from "../images";
 
 const WISH_API_LINK = ""; // use mock api
 const cdnLink =
-  "https://res.cloudinary.com/do6sozxbo/image/upload/f_auto,q_auto/v1/wedding5";
+  "https://drive.google.com/file/d/1KZK2lDe37dRsO8Bu_MH-rjtfRAnl9ZCB/view?usp=drive_link";
 
 // common
 
@@ -72,7 +72,7 @@ const daysInMonth = [
 // invitation intro (first section)
 const introSection = {
   mainImage:
-    "https://res.cloudinary.com/do6sozxbo/image/upload/f_auto,q_auto/v1/wedding5/e3",
+    "https://drive.google.com/file/d/1KZK2lDe37dRsO8Bu_MH-rjtfRAnl9ZCB/view?usp=drive_link",
   brideFirstLetter: "T",
   groomFirstLetter: "H",
 };
@@ -122,14 +122,14 @@ const albumSection = {
 
 const guestbookSection = {
   image: `${cdnLink}/e5`,
-  time: "12/12/2024",
+  time: "12/12/2026",
 };
 
 // gift section
 
 const giftSection = {
   image:
-    "https://res.cloudinary.com/do6sozxbo/image/upload/v1730383598/wedding5/am3.jpg",
+    "https://drive.google.com/file/d/1XT84NRJiFroYosII_zZVddvVQybJegSr/view?usp=drive_link",
   brideBank: {
     name: "Trần Thị Thuý",
     bankName: "Vietinbank ",
@@ -147,9 +147,9 @@ const giftSection = {
 // timer
 const timerSection = {
   weddingTime: {
-    year: 2024,
-    day: 22,
-    month: 12,
+    year: 2026,
+    day: 30,
+    month: 08,
   },
 };
 
@@ -304,24 +304,24 @@ const metaData = {
   main: {
     title: "Báo Hỉ Hiệp - Uyên | Kính Mời",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/land.jpg",
+      "https://drive.google.com/file/d/1XT84NRJiFroYosII_zZVddvVQybJegSr/view?usp=drive_link",
   },
 
   wish: {
     title: "Tất cả lời chúc dành cho Hiệp - Uyên",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/am11.jpg",
+      "https://drive.google.com/file/d/1102VhgUyNqKTWYYC-QhctxvN71oTktbP/view?usp=drive_link",
   },
 
   invitation: {
     title: "Báo Hỉ | Form Nhập Tên",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730394150/wedding5_1/a3.jpg",
+      "https://drive.google.com/file/d/1102VhgUyNqKTWYYC-QhctxvN71oTktbP/view?usp=drive_link",
   },
   album: {
     title: "Album của Hiệp - Uyên`",
     graphImage:
-      "https://res.cloudinary.com/do6sozxbo/image/upload/v1730558395/wedding5/final3.jpg",
+      "https://drive.google.com/file/d/1iTyeu6lEGhKAyVgU993ce25iLvEnjJcT/view?usp=drive_link",
   },
 };
 
