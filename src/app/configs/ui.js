@@ -102,7 +102,7 @@ const profileSection = {
 
 const invitationSection = {
   imgs: [`${cdnLink}/e7`, `${cdnLink}/e4`, `${cdnLink}/e6`],
-  activeDay: 22,
+  activeDay: 30,
 };
 
 // album section
