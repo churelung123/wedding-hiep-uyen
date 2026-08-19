@@ -1,6 +1,6 @@
 import images from "../images";
 
-const WISH_API_LINK = ""; // use mock api
+const WISH_API_LINK = "https://sheetdb.io/api/v1/jurqnkhwz789o"; // use mock api
 const cdnLink =
   "/images";
 
@@ -121,7 +121,7 @@ const albumSection = {
 // guestbook section
 
 const guestbookSection = {
-  image: `${cdnLink}/e5`,
+  image: `${cdnLink}/e5.jpg`,
   time: "12/12/2026",
 };
 
